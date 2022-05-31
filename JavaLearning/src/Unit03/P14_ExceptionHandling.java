@@ -60,7 +60,7 @@ import java.util.Scanner;
 			public static void main(String[] args) {
 				
 				ExceptionsInJava obj= new ExceptionsInJava();
-				
+				 
 				//obj.basicException();
 				obj.handleException();
 				obj.multipleCatch();
@@ -419,5 +419,5 @@ import java.util.Scanner;
 				return "MyException Occured";
 			}
 		}
-}
-}
+
+
